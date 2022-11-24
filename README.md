@@ -2,8 +2,8 @@
 
 ## Description
 
-HolbertonBnB is a complete web application, it integrates database storage,
-a back-end API, and a front-end interface. It is a clone of AirBnB.
+AirBnB_clone is a complete web application, it integrates database storage,
+a back-end API, and a front-end interface. It is a clone of HobertonBnB.
 
 ## Console
 
